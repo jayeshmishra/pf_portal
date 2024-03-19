@@ -1,4 +1,4 @@
 class Demo{
 
-}[A
-[}
+	int i=10;
+}
